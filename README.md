@@ -9,7 +9,13 @@
 ### What is SDC ?
 Strict DLP Chinese(SDC) is a strict DLP based on the Official DLP. In addition to the Official DLP, SDC adds the eMule VeryCD Mod and easyMule(1) into the SoftBan list, because of GPL-breaker, private network, community leecher and another reasons.
 
+关于分支
+-----
+本分支 Release_x64 为64位/x64编译版本的分支
+* [主分支](https://github.com/chengr28/specialdlp)<br />
+* [Release_x86 分支](https://github.com/chengr28/specialdlp/tree/Release_x86)<br />
+
 相关链接
 -----
-1.[SDC Blog](http://blog.sdlpc.net)<br />
-2.[SDC的Sourceforge页面](https://sourceforge.net/projects/specialdlp)<br />
+* [SDC Blog](http://blog.sdlpc.net)<br />
+* [SDC的Sourceforge页面](http://sourceforge.net/projects/specialdlp)<br />
