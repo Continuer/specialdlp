@@ -15,7 +15,13 @@ Strict DLP Chinese(SDC) is a strict DLP based on the Official DLP. In addition t
 * [主分支](https://github.com/chengr28/specialdlp)<br />
 * [Release_x86 分支](https://github.com/chengr28/specialdlp/tree/Release_x86)<br />
 
-相关链接
+About Branches
+-----
+The Release_x64 branch is to store the compiled files (.dll) for the Windows OS x64.
+* The source codes and documentations are in [Master](https://github.com/chengr28/specialdlp)<br />
+* The complied files (.dll) for the Windows OS x86 is in [Release_x86 branch](https://github.com/chengr28/specialdlp/tree/Release_x86)<br />
+
+相关链接 Links
 -----
 * [SDC Blog](http://blog.sdlpc.net)<br />
 * [SDC的Sourceforge页面](http://sourceforge.net/projects/specialdlp)<br />
